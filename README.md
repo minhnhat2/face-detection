@@ -1,0 +1,6 @@
+# face-detection
+đồ án cuối kỳ môn Machine Learning
+
+with file .png you need create it in 1 file name faces and run it with vscode, visual studio, pycharm,...
+
+with file.jpg and video you do it with jupyter notebook, colab,...

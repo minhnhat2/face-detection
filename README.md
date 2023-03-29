@@ -1,5 +1,5 @@
 # face-detection
-đồ án cuối kỳ môn Machine Learning
+đồ án cuối kỳ môn Machine Learning - my report : Face detecion
 
 with file .png you need create it in 1 file name faces and run it with vscode, visual studio, pycharm,...(run with face_detection_with_camera.py)
 

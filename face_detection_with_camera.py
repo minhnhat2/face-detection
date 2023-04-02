@@ -2,6 +2,8 @@ import cv2
 import face_recognition
 
 # Load known face images and encodings
+
+#The face_recognition library uses these known face encodings to compare them to the face encodings of new faces that are detected in the video stream. If a match is found between a new face and one of the known face encodings, the script identifies the person as the corresponding known face.
 elon_image = face_recognition.load_image_file("faces/elon.png")
 elon_encoding = face_recognition.face_encodings(elon_image)[0]
 
